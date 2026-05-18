@@ -22,3 +22,8 @@ This repository is divided to branches that correspond to the blog post sections
 
 ## Original code
 ![alt text](image.png)
+
+## Add some creativities to the webclient
+![alt text](image-1.png)
+![alt text](image-2.png)
+Saya melakukan redesign tampilan UI pada dua halaman utama yaitu `login.rs` dan `chat.rs` menggunakan tema warna tosca yang konsisten. Halaman login diubah menjadi kartu putih ditengah dengan latar gradasi lalu tombol yang otomatis nonaktif saat username masih kosong. Halaman chat diperbarui dengan sidebar berisi indikator online hijau. Semua perubahan ini bertujuan untuk pengalaman visual yang lebih modern.
