@@ -1,3 +1,5 @@
-import('./pkg').then((module) => {
-    module.run_app();
+import init, { run_app } from './pkg/yewchat.js';
+
+init().then(() => {
+    run_app();
 });
